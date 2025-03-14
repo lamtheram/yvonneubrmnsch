@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    margin: 0;
+    overflow: hidden;
+}
+
+svg {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
+
+.node text {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    fill: white;
+}
+
+.node circle {
+    transition: transform 0.2s ease-in-out;
+}
+
+.node:hover circle {
+    transform: scale(1.1);
+}
+
+.link {
+    stroke: white;
+    stroke-width: 2;
+}
