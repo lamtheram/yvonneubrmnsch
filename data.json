@@ -1,0 +1,13 @@
+{
+    "nodes": [
+        { "id": "1", "name": "Central Thought", "desc": "The main idea.", "image": "https://via.placeholder.com/50" },
+        { "id": "2", "name": "Memory", "desc": "A past event that affects thoughts.", "image": "https://via.placeholder.com/50" },
+        { "id": "3", "name": "Emotion", "desc": "A strong feeling connected to an event.", "image": "https://via.placeholder.com/50" },
+        { "id": "4", "name": "Fear", "desc": "A deep-rooted feeling linked to past events.", "image": "https://via.placeholder.com/50" }
+    ],
+    "links": [
+        { "source": "1", "target": "2" },
+        { "source": "1", "target": "3" },
+        { "source": "3", "target": "4" }
+    ]
+}
