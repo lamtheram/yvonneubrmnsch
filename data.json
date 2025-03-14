@@ -1,6 +1,6 @@
 {
     "nodes": [
-        { "id": "1", "name": "Central Thought", "desc": "The main idea.", "image": "https://via.placeholder.com/50" },
+        { "id": "1", "name": "Yvonne", "desc": "The main idea.", "image": "https://instagram.fdub3-2.fna.fbcdn.net/v/t51.2885-19/258022069_109656388211830_7665716021523637738_n.jpg?_nc_ht=instagram.fdub3-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AEJUGVrI0RpQ2F-bGKa_22McAQm5EwJbFljHztFntH2wZcpQUi0SetZ8g-i0U_uy9E&_nc_ohc=Y2V4LN91ioQQ7kNvgFXPgrY&_nc_gid=VDDoI2sw7LHIImg9535fEg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYHnEFALH9aqdO-S54wBdwnyCdGX8857vRaHk0rOoBEudA&oe=67DA7D25&_nc_sid=7a9f4b" },
         { "id": "2", "name": "Memory", "desc": "A past event that affects thoughts.", "image": "https://via.placeholder.com/50" },
         { "id": "3", "name": "Emotion", "desc": "A strong feeling connected to an event.", "image": "https://via.placeholder.com/50" },
         { "id": "4", "name": "Fear", "desc": "A deep-rooted feeling linked to past events.", "image": "https://via.placeholder.com/50" }
